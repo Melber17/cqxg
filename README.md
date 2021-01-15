@@ -1,5 +1,6 @@
 ![Header](https://github.com/cqxg/cqxg/blob/master/assets/ihar.gif)  
 
+### About me
 [![Ihar's github stats](https://github-readme-stats.vercel.app/api?username=cqxg&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://cqxg.netlify.app)
 
 ### Languages and Tools
