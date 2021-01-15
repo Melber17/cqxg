@@ -1,7 +1,7 @@
 ![Header](https://github.com/cqxg/cqxg/blob/master/assets/ihar.gif)  
 
 ### About me
-[![Ihar's github stats](https://github-readme-stats.vercel.app/api?username=cqxg&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://cqxg.netlify.app)
+[![Ihar's github stats](https://github-readme-stats.vercel.app/api?username=cqxg&show_icons=true&include_all_commits=true&theme=dark)](https://cqxg.netlify.app)
 
 ### Languages and Tools
   ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=F16625&color=000000)
