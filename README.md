@@ -1,4 +1,3 @@
-### About me
 [![Ihar's github stats](https://github-readme-stats.vercel.app/api?username=cqxg&show_icons=true&include_all_commits=true&theme=dark)](https://cqxg.netlify.app)
 
 ### Languages and Tools
